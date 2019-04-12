@@ -1,2 +1,2 @@
-# deploying-machine-learning-models-predict-8.3_Setup_CircleCI
-deploying-machine-learning-models-predict-8.3_Setup_CircleCI
+# Deploying Machine Learning Models
+For the documentation, visit the course on Udemy.
